@@ -30,6 +30,10 @@ O projeto apresenta características importantes de aplicações educacionais co
 - Possibilidade de escalabilidade futura;
 - Aplicação hospedada na plataforma Vercel.
 
+## Arquitetura Geral
+
+![Arquitetura do Sistema](arquitetura-geral.png)
+
 ---
 
 # 2. Estrutura Técnica Identificada
